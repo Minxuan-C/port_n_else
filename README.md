@@ -1,4 +1,4 @@
-Replication of research papers - serves as a practice
+Replication of research papers in factor investment/portfolio management - serves as a practice
 
 todo: 
   
